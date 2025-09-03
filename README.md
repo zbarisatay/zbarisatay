@@ -1,16 +1,32 @@
-## Hi there 👋
+# 🎮 Hi, I'm Ziya Baris Atay  
 
-<!--
-**zbarisatay/zbarisatay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Game Designer** currently studying at **Futuregames Warsaw**.  
+With a background in **Computer Science (BSc, UITM Rzeszów)**, I combine technical knowledge with creative design to build engaging gameplay experiences.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🕹️ Focus Areas
+- 🎨 Game design & level design  
+- 👾 Gameplay prototyping  
+- 💻 Unity & Unreal Engine  
+- 📐 Systems design & balancing  
+
+---
+
+## 🎓 Education
+- 🎮 **Game Design**, Futuregames Warsaw *(current)*  
+- 💻 **BSc in Computer Science**, UITM Rzeszów *(completed)*  
+
+---
+
+## 📌 About Me
+- Currently pursuing advanced studies in **Game Design**  
+- Experienced in both the **creative** and **technical** sides of development  
+- Interested in combining **design thinking** with **programming knowledge**  
+- Always curious to experiment with **new mechanics** and **player experiences**  
+
+---
+
+## 🌐 Connect With Me
+- 📷 Instagram: [@yourusername](https://instagram.com/ziyabarisaty)  
+- 💼 LinkedIn: [https://www.linkedin.com/in/ziyabarisatay/]  
