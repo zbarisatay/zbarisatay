@@ -28,5 +28,5 @@ With a background in **Computer Science (BSc, UITM Rzeszów)**, I combine techni
 ---
 
 ## 🌐 Connect With Me
-- 📷 Instagram: [@yourusername](https://instagram.com/ziyabarisaty)  
+- 📷 Instagram: [@ziyabarisaty](https://instagram.com/ziyabarisaty)  
 - 💼 LinkedIn: [https://www.linkedin.com/in/ziyabarisatay/]  
